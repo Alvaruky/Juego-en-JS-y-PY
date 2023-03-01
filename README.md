@@ -25,3 +25,27 @@
      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="AlvarukyFDP" height="28px" width="28px" />
    </a>
  </p>
+
+<!--
+<table align="center">
+  <tr>
+    <th>Achievements</th>
+    <th>Strengths</th>
+    <th>Goals</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Alvaruky/Juego-en-JS/blob/main/assets/img/placa_microbit.jpg" alt="Placa-MicroBit" width="300" height="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Alvaruky/Juego-en-JS/blob/main/assets/img/placa_microbit.jpg" alt="Placa-MicroBit" width="300" height="300"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><img src="https://github.com/Alvaruky/Juego-en-JS/blob/main/assets/img/placa_microbit.jpg" alt="Placa-MicroBit" width="300" height="300"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Ambitious</td>
+    <td></td>
+  </tr>
+</table>-->
