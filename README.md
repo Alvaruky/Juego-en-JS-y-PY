@@ -1,8 +1,13 @@
 # <h1 align="center"><strong>JUEGO EN JAVA SCRIPT</strong></h1>
 
-### <h2 align="left"><strong>INTRODUCCIÓN</strong></h2>
+## <h2 align="left"><strong>INTRODUCCIÓN</strong></h2>
 <p align="justify">
     Phasellus viverra ut ex et iaculis. Aenean est nisi, dignissim ac consectetur nec, auctor nec dolor. Suspendisse ante nisi, pretium at quam et, sagittis maximus         enim. Nam hendrerit neque libero, eu commodo quam congue ac. Vivamus massa elit, rhoncus eu consequat sit amet, vestibulum id lectus. Nam eget sem non sem commodo       ornare. Morbi lacus ante, condimentum a sodales eu, ornare ac nisl. Fusce bibendum id dui non maximus. Vivamus condimentum sodales ipsum non vehicula. Quisque           rhoncus sodales arcu a rutrum. In hac habitasse platea dictumst. Mauris pulvinar tristique neque, ut mattis neque tempor non. Praesent purus eros, iaculis eget           vehicula sodales, lacinia at massa. Maecenas at euismod nisl. Pellentesque lacinia enim ac felis pulvinar euismod. Proin auctor auctor turpis.
+</p>
+
+## <h2 align="left"><strong>PLACA MICROBIT</strong></h2>
+<p align="center">
+  <img src="https://github.com/Alvaruky/Juego-en-JS/blob/main/assets/img/placa_microbit.jpg" alt="Placa MicroBit" width="300" height="300">
 </p>
 
 ## <h2 align="left"><strong>ENLACE MICROBIT</strong></h2>
