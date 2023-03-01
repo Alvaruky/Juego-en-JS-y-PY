@@ -7,7 +7,7 @@
 
 ## <h2 align="left"><strong>PLACA MICROBIT</strong></h2>
 <p align="center">
-  <img src="https://github.com/Alvaruky/Juego-en-JS/blob/main/assets/img/placa_microbit.jpg" alt="Placa MicroBit" width="300" height="300">
+  <img src="https://github.com/Alvaruky/Juego-en-JS/blob/main/assets/img/placa_microbit.jpg" alt="Placa-MicroBit" width="300" height="300">
 </p>
 
 ## <h2 align="left"><strong>ENLACE MICROBIT</strong></h2>
