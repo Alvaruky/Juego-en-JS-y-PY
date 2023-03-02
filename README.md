@@ -1,4 +1,4 @@
-# <h1 align="center"><strong>JUEGO EN JAVA SCRIPT</strong></h1>
+# <h1 align="center"><strong>JUEGO EN JAVA SCRIPT Y PYTHON</strong></h1>
 
 ## <h2 align="left"><strong>INTRODUCCIÓN</strong></h2>
 <p align="justify">
