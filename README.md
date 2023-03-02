@@ -46,21 +46,12 @@
     <td align="center">
       <img src="https://github.com/Alvaruky/Juego-en-JS-y-PY/blob/main/assets/img/codigo_javascript.jpg" alt="Código-JavaScript" width="300" height="300">
     </td>
-  </tr>
-  <tr>
-    <td>
-    </td>
     <td align="center">
       <img src="https://github.com/Alvaruky/Juego-en-JS-y-PY/blob/main/assets/img/codigo_python.jpg" alt="Código-Python" width="300" height="300">
-    </td>
-  </tr>
-  <tr>
-    <td>
-    </td>
-    <td>
     </td>
     <td align="center">
       <img src="https://github.com/Alvaruky/Juego-en-JS/blob/main/assets/img/placa_microbit.jpg" alt="Placa-MicroBit" width="300" height="300">
     </td>
   </tr>
 </table>
+
