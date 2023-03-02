@@ -5,9 +5,12 @@
     Phasellus viverra ut ex et iaculis. Aenean est nisi, dignissim ac consectetur nec, auctor nec dolor. Suspendisse ante nisi, pretium at quam et, sagittis maximus    enim. Nam hendrerit neque libero, eu commodo quam congue ac. Vivamus massa elit, rhoncus eu consequat sit amet, vestibulum id lectus. Nam eget sem non sem commodo   ornare. Morbi lacus ante, condimentum a sodales eu, ornare ac nisl. Fusce bibendum id dui non maximus. Vivamus condimentum sodales ipsum non vehicula. Quisque      rhoncus sodales arcu a rutrum. In hac habitasse platea dictumst. Mauris pulvinar tristique neque, ut mattis neque tempor non. Praesent purus eros, iaculis eget     vehicula sodales, lacinia at massa. Maecenas at euismod nisl. Pellentesque lacinia enim ac felis pulvinar euismod. Proin auctor auctor turpis.
 </p>
 
-## <h2 align="left"><strong>ENLACE MICROBIT</strong></h2>
-  <a href="https://makecode.microbit.org/_HgVWMVKyqc8J">Microsoft Make Code</a>
+## <h2 align="center"><strong>PLACA MICROBIT</strong></h2>
+  <p align="center">
+  <img src="https://github.com/Alvaruky/Juego-en-JS-y-PY/blob/main/assets/img/placa_microbit.jpg" alt="Placa-Microbit">
+</p>
 
+## <h2 align="center"><strong>TABLA CÓDIGOS</strong></h2>
 
 <table align="center">
   <tr>
@@ -23,10 +26,13 @@
       <img src="https://github.com/Alvaruky/Juego-en-JS-y-PY/blob/main/assets/img/codigo_python.jpg" alt="Código-Python" width="300" height="300">
     </td>
     <td align="center">
-      <img src="https://github.com/Alvaruky/Juego-en-JS/blob/main/assets/img/placa_microbit.jpg" alt="Placa-MicroBit" width="300" height="300">
+      <img src="https://github.com/Alvaruky/Juego-en-JS-y-PY/blob/main/assets/img/codigo_bloques.jpg" alt="Código-Bloques" width="300" height="300">
     </td>
   </tr>
 </table>
+
+## <h2 align="left"><strong>ENLACE MICROBIT</strong></h2>
+  <a href="https://makecode.microbit.org/_HgVWMVKyqc8J">Microsoft Make Code</a>
 
 ### <h3 align="center">👇¡These are my social networks!👇</h3>
  <p align="center">
