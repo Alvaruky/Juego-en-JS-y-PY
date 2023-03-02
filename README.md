@@ -36,26 +36,31 @@
    </a>
  </p>
 
-<!--
 <table align="center">
   <tr>
-    <th>Achievements</th>
-    <th>Strengths</th>
-    <th>Goals</th>
+    <th align="center">Código JavaScript</th>
+    <th align="center">Código Python</th>
+    <th align="center">Placa MicroBit</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/Alvaruky/Juego-en-JS/blob/main/assets/img/placa_microbit.jpg" alt="Placa-MicroBit" width="300" height="300"></td>
+    <td align="center">
+      <img src="https://github.com/Alvaruky/Juego-en-JS-y-PY/blob/main/assets/img/codigo_javascript.jpg" alt="Código-JavaScript" width="300" height="300">
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Alvaruky/Juego-en-JS/blob/main/assets/img/placa_microbit.jpg" alt="Placa-MicroBit" width="300" height="300"></td>
+    <td>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Alvaruky/Juego-en-JS-y-PY/blob/main/assets/img/codigo_python.jpg" alt="Código-Python" width="300" height="300">
+    </td>
   </tr>
   <tr>
-    <td></td>
-    <td><img src="https://github.com/Alvaruky/Juego-en-JS/blob/main/assets/img/placa_microbit.jpg" alt="Placa-MicroBit" width="300" height="300"></td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Alvaruky/Juego-en-JS/blob/main/assets/img/placa_microbit.jpg" alt="Placa-MicroBit" width="300" height="300">
+    </td>
   </tr>
-  <tr>
-    <td></td>
-    <td>Ambitious</td>
-    <td></td>
-  </tr>
-</table>-->
+</table>
