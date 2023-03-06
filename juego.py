@@ -1,6 +1,9 @@
 def on_button_pressed_a():
     LedAbajo.move(-1)
+
+
 input.on_button_pressed(Button.A, on_button_pressed_a)
+
 
 def Objeto1():
     global Objeto
@@ -9,14 +12,18 @@ def Objeto1():
         basic.pause(500)
         Objeto.change(LedSpriteProperty.Y, 1)
 
+
 def on_button_pressed_b():
     LedAbajo.move(1)
+
+
 input.on_button_pressed(Button.B, on_button_pressed_b)
 
 Objeto: game.LedSprite = None
 LedAbajo: game.LedSprite = None
 LedAbajo = game.create_sprite(2, 4)
 Objeto1()
+
 
 def on_forever():
     if Objeto.is_touching(LedAbajo):
@@ -26,4 +33,6 @@ def on_forever():
     else:
         basic.show_icon(IconNames.NO)
         game.game_over()
+
+
 basic.forever(on_forever)
